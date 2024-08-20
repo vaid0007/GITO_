@@ -1,0 +1,47 @@
+body{
+    font-family: sans-serif;
+}
+
+.navbar{
+    width: 100%;
+    height: auto;
+    background-color:  rgb(8, 159, 164);
+}
+
+.navbar span {
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
+
+}
+
+.navbar span button{
+    width: 300px;
+    height: 40px;
+    color: black;
+    font-weight: bold;
+    border-radius: 5px;
+    border: 0px solid transparent ;
+    box-shadow: 2px 5px 18px;
+    background:linear-gradient( to right ,  rgb(0, 255, 123)  , aqua)
+
+}
+
+.navbar button{
+    width: 100px;
+    height: 40px;
+    color: black;
+    font-weight: bold;
+    border-radius: 5px;
+    border: 0px solid transparent ;
+    box-shadow: 2px 5px 18px;
+    background:linear-gradient( to right ,  rgb(0, 255, 123)  , aqua);
+    margin-left: 20px;
+    margin-top: 20px;
+
+}
+
+.home img{
+    margin-right: 40px;
+}
+

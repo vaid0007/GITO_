@@ -1,0 +1,44 @@
+.footer{
+    width: 100%;
+    height: auto;
+    background-image: url(../Assets/Banner_01.jpg);
+    text-align: center;
+
+}
+
+.footer h1{
+    color: white;
+    text-align: center;
+    font-weight: bold;
+}
+
+.footer video{
+    width: 90%;
+    border: 2px solid black;
+    margin: 20px;
+ }
+
+
+ .admision button{
+    width: 100%;
+    height: auto;
+    color: black;
+    border-radius: 10px;
+    border: 0px solid transparent ;
+    box-shadow: 2px 5px 18px;
+    background:linear-gradient( to right ,  rgb(0, 255, 123)  , aqua);
+    font-family: sans-serif;
+
+}
+
+.admision button span{
+    font-weight: bold;
+    font-size: 45px;
+}
+
+
+.admision button p{
+    font-size: 20px;
+}
+
+

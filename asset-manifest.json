@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/GITO_/static/css/main.0234b3a7.css",
+    "main.js": "/GITO_/static/js/main.aec89f2e.js",
+    "static/js/453.8ab44547.chunk.js": "/GITO_/static/js/453.8ab44547.chunk.js",
+    "static/media/intro.mp4": "/GITO_/static/media/intro.f03b14c364e99a87755e.mp4",
+    "static/media/Banner_01.jpg": "/GITO_/static/media/Banner_01.196c81da5758781e8c6c.jpg",
+    "index.html": "/GITO_/index.html",
+    "main.0234b3a7.css.map": "/GITO_/static/css/main.0234b3a7.css.map",
+    "main.aec89f2e.js.map": "/GITO_/static/js/main.aec89f2e.js.map",
+    "453.8ab44547.chunk.js.map": "/GITO_/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0234b3a7.css",
+    "static/js/main.aec89f2e.js"
+  ]
+}
